@@ -1,4 +1,4 @@
-# wafleria
+# mariscosMG
 
 pasos para configurar impresora
 
